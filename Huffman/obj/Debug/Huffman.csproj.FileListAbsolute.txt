@@ -1,0 +1,30 @@
+C:\Users\Stefana\Desktop\Huffman\Huffman\bin\Debug\Huffman.exe.config
+D:\Huffman\Huffman\bin\Debug\Huffman.exe.config
+C:\Users\Stefana\Desktop\New folder\Huffman\Huffman\bin\Debug\Huffman.exe.config
+C:\Users\Stefana\Desktop\New folder\Huffman\Huffman\bin\Debug\Huffman.exe
+C:\Users\Stefana\Desktop\New folder\Huffman\Huffman\bin\Debug\Huffman.pdb
+C:\Users\Stefana\Desktop\New folder\Huffman\Huffman\obj\Debug\Huffman.csprojResolveAssemblyReference.cache
+C:\Users\Stefana\Desktop\New folder\Huffman\Huffman\obj\Debug\Huffman.exe
+C:\Users\Stefana\Desktop\New folder\Huffman\Huffman\obj\Debug\Huffman.pdb
+C:\Users\Stefana\Desktop\Huffman\Huffman\obj\Debug\Huffman.exe
+C:\Users\Stefana\Desktop\Huffman\Huffman\obj\Debug\Huffman.pdb
+C:\Users\srusu\Desktop\Huffman\Huffman\bin\Debug\Huffman.exe.config
+C:\Users\srusu\Desktop\Huffman\Huffman\obj\Debug\Huffman.exe
+C:\Users\srusu\Desktop\Huffman\Huffman\obj\Debug\Huffman.pdb
+C:\Users\srusu\Desktop\Huffman\Huffman\bin\Debug\Huffman.exe
+C:\Users\srusu\Desktop\Huffman\Huffman\bin\Debug\Huffman.pdb
+C:\Users\srusu\Desktop\Huffman\Huffman\obj\Debug\Huffman.csprojResolveAssemblyReference.cache
+C:\Users\Stefana\Desktop\Huffman\Huffman\bin\Debug\Huffman.exe
+C:\Users\Stefana\Desktop\Huffman\Huffman\bin\Debug\Huffman.pdb
+C:\Users\Stefana\Desktop\Huffman\Huffman\obj\Debug\Huffman.csprojResolveAssemblyReference.cache
+D:\Huffman\Huffman\obj\Debug\Huffman.exe
+D:\Huffman\Huffman\obj\Debug\Huffman.pdb
+D:\Huffman\Huffman\bin\Debug\Huffman.exe
+D:\Huffman\Huffman\bin\Debug\Huffman.pdb
+C:\Users\stefa\Desktop\Huffman-Encoding-master\Huffman\bin\Debug\Huffman.exe.config
+C:\Users\stefa\Desktop\Huffman-Encoding-master\Huffman\bin\Debug\Huffman.exe
+C:\Users\stefa\Desktop\Huffman-Encoding-master\Huffman\bin\Debug\Huffman.pdb
+C:\Users\stefa\Desktop\Huffman-Encoding-master\Huffman\obj\Debug\Huffman.csprojAssemblyReference.cache
+C:\Users\stefa\Desktop\Huffman-Encoding-master\Huffman\obj\Debug\Huffman.csproj.CoreCompileInputs.cache
+C:\Users\stefa\Desktop\Huffman-Encoding-master\Huffman\obj\Debug\Huffman.exe
+C:\Users\stefa\Desktop\Huffman-Encoding-master\Huffman\obj\Debug\Huffman.pdb
